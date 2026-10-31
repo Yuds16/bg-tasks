@@ -9,10 +9,8 @@ Each session with the mod loaded writes a snapshot of its in-flight tasks to `~/
 At the prompt of a terminal session:
 
 ```
-/plugin install bg-tasks --marketplace <owner>/bg-tasks
+/plugin install bg-tasks --marketplace Yuds16/bg-tasks
 ```
-
-Replace `<owner>` with the GitHub account that hosts this repository. Open the pane with `/bg-tasks`.
 
 ## License
 
