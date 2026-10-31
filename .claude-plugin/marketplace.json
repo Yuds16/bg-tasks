@@ -1,0 +1,1 @@
+{ "name": "bg-tasks", "owner": { "name": "Yudhi Onggowarsito" }, "plugins": [{ "name": "bg-tasks", "source": "./" }] }
